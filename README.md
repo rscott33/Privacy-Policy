@@ -1,7 +1,7 @@
 # Privacy-Policy
-Privacy Policy for [App Name]
+Privacy Policy for Workout Log & Generator
 
-At [App Name], we take your privacy seriously. This Privacy Policy explains how we collect, use, and disclose information through our mobile application (the "App"). By using the App, you agree to the terms and conditions of this Privacy Policy.
+At Workout Log & Generator, we take your privacy seriously. This Privacy Policy explains how we collect, use, and disclose information through our mobile application (Workout Log & Generator). By using the App, you agree to the terms and conditions of this Privacy Policy.
 
 Information Collection and Use
 
@@ -21,4 +21,4 @@ Changes to this Policy
 We may update this Privacy Policy from time to time. If we make any changes, we will provide notice through the App or by other means.
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data collection and use practices, please contact us at rachelscott104@gmail.com.
+If you have any questions or concerns about this Privacy Policy or our data collection and use practices, please contact us at workoutgeneratorlog@gmail.com.
